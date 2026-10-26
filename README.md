@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет! Я Артём Ложкин 👋
 
-<!--
-**ArtyomDL/ArtyomDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 2 курса РЭУ им. Г. В. Плеханова по специальности «Информационная безопасность».
+Ищу стажировку или первую работу в ИБ.
 
-Here are some ideas to get you started:
+## Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Языки:** C#, Python, встроенный язык 1С
+- **Веб:** HTML, CSS, JavaScript
+- **Платформы:** 1С:Предприятие 8.3, Loginom Community 9
+- **Инструменты:** Visual Studio Code
+
+## Учебные проекты
+
+| Проект | Что сделано |
+| --- | --- |
+| Расследование инцидента ИБ на объекте ТЭК | Разбор атаки на АСУ ТП по ICS Cyber Kill Chain и MITRE ATT&CK for ICS, модель нарушителя по методике ФСТЭК |
+| Оценка рисков ИБ мобильного устройства | Активы, модель угроз и нарушителей, расчёт рисков и меры защиты |
+| Компонент ABC-анализа в Loginom | Переиспользуемый компонент по принципу Парето |
+| Кластеризация районов Московской области | Анализ данных и кластеризация картами Кохонена в Loginom |
+
+📁 Отчёты по проектам: [портфолио на Google Диске](https://drive.google.com/drive/folders/1xxZY3wfI0SGMnVzWSrqnGbZsP8N41leF?usp=sharing)
+
+## Контакты
+
+- Telegram: [@ArtyomDL](https://t.me/ArtyomDL)
+- Email: artyomlozhkin1556@gmail.com
